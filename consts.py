@@ -1,0 +1,2 @@
+ROWS = 25
+COLUMNS = 50
